@@ -1,0 +1,14 @@
+# Extra arguments for Doom, one or more a line. Lines starting with # are ignored.
+# Examples (remove the # to use one):
+#
+# Load a PWAD (put the file in this folder):
+# -file sigil.wad
+#
+# Pick the IWAD when this folder holds more than one:
+# -iwad doom.wad
+#
+# Skill 1-5 and a map, straight into the game:
+# -skill 3 -warp 1 1
+#
+# No sound effects:
+# -nosound
