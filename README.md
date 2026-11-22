@@ -5,8 +5,8 @@ Doom runs as a Q2 Pod **card game**. It sits in **Library → Games** under Sudo
 ## Install
 
 1. Copy the `.doom` folder to the **root of the card** (next to your music folders). On a Mac, press ⌘⇧. in Finder to see dot-folders.
-2. Put a Doom game file (IWAD) in `.doom`. Any one of these works:
-   - `DOOM1.WAD`: the free shareware episode
+2. Put a Doom game file (IWAD) in `.doom`. Any one of these MAY work:
+   - `DOOM1.WAD`: the free shareware episode (tested to work)
    - `DOOM.WAD`, `DOOM2.WAD`, `TNT.WAD`, `PLUTONIA.WAD`: from your copy of Doom
    - `FREEDOOM1.WAD`, `FREEDOOM2.WAD`: free, from [freedoom.github.io](https://freedoom.github.io)
 
